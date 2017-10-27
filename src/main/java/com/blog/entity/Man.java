@@ -1,4 +1,4 @@
-package com.ssh.entity;
+package com.blog.entity;
 
 /**
  * Demo class

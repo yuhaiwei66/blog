@@ -1,8 +1,8 @@
-package com.ssh.service.impl;
+package com.blog.service.impl;
 
-import com.ssh.entity.Person;
-import com.ssh.repository.PersonRepository;
-import com.ssh.service.PersonService;
+import com.blog.entity.Person;
+import com.blog.repository.PersonRepository;
+import com.blog.service.PersonService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

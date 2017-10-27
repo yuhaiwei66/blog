@@ -1,4 +1,4 @@
-package com.ssh.service;
+package com.blog.service;
 
 /**
  * Demo class

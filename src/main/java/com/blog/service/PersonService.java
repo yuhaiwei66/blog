@@ -1,6 +1,4 @@
-package com.ssh.service;
-
-import com.ssh.entity.Person;
+package com.blog.service;
 
 /**
  * Created by XRog

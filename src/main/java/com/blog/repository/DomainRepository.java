@@ -1,5 +1,5 @@
 
-        package com.ssh.repository;
+        package com.blog.repository;
 import java.io.Serializable;
 import java.util.List;
 

@@ -1,6 +1,6 @@
-package com.ssh.service.impl;
+package com.blog.service.impl;
 
-import com.ssh.service.TestService;
+import com.blog.service.TestService;
 import org.springframework.stereotype.Service;
 
 /**

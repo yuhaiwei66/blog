@@ -1,6 +1,6 @@
-package com.ssh.repository;
+package com.blog.repository;
 
-import com.ssh.entity.Person;
+import com.blog.entity.Person;
 
 /**
  * Created by XRog
